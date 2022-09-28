@@ -1,6 +1,6 @@
-# Portfolio Template
+# Omer S
 
-## First-time setup
+## omers9293
 
 ##### Getting your own copy of the template
 
